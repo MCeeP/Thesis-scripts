@@ -1,7 +1,7 @@
 import math
 
 Ps = 75 #Saturation vapour pressure (mmHg), bezene is 75
-V =  24.465 #Ideal gas at 25 degrees C (L/mol)
+V =  22.414 #Ideal gas at STP
 y =  28.88 #Surface tension (Benzene = 28.88mN/m @ 20 degrees C)
 R =  8.3145 #Universal gas constant (L mmHg K Mol)
 T =  293.15 #temperature (kelvin)
